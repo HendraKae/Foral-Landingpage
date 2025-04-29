@@ -1,6 +1,6 @@
 import imgHero from "../assets/images/imgHero.png";
 import bgHero from "../assets/images/svg/bgHero.svg";
-import mobilebgHero from "../assets/images/svg/mobilebgHero.svg";
+import mobilebgHero from "../assets/images/svg/mobilehero.svg";
 
 export default function HeroSection() {
   return (
